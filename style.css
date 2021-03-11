@@ -1,0 +1,13 @@
+#newCardForm {
+    font-weight: bold;
+}
+
+#cards {
+    text-align: center;
+    border-style: solid;
+    margin: 20px
+}
+
+img {
+    width: 250px;
+}

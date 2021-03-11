@@ -1,0 +1,13 @@
+{
+  "basketballCards": [
+    {
+      "id": 1,
+      "playerName": "Lebron James",
+      "yearDrafted": 2003,
+      "image": "http://media.cleveland.com/livingston_impact/photo/10529847-large.jpg",
+      "rookieYearTeam": "Cleveland Cavaliers",
+      "height": "6 ft 9 inches",
+      "weight": "250 lbs"
+    }
+  ]
+}
