@@ -24,7 +24,7 @@
       "image": "https://i.pinimg.com/originals/7f/53/1a/7f531a6278260b677788b2c24e371633.jpg",
       "rookieYearTeam": "New Orleans Pelicans",
       "height": "6 ft",
-      "weight": "175",
+      "weight": "175 lbs",
       "id": 4
     },
     {
@@ -33,7 +33,7 @@
       "image": "http://d1ya1fm0bicxg1.cloudfront.net/2014/11/promoted-media-optimized_546652a52b5f7.jpg",
       "rookieYearTeam": "Boston Celtics",
       "height": "6 ft 1 inch",
-      "weight": "185",
+      "weight": "185 lbs",
       "id": 5
     },
     {
@@ -50,7 +50,7 @@
       "yearDrafted": "2008",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Derrick_Rose_2.jpg/220px-Derrick_Rose_2.jpg",
       "rookieYearTeam": "Chicago Bulls",
-      "height": "6 ft 2  inches",
+      "height": "6 ft 2 inches",
       "weight": "200 lbs",
       "id": 7
     }
