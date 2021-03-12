@@ -1,13 +1,39 @@
+#addNewCard {
+    text-align: left;
+    margin: 20px
+}
+
+body {
+    background-color: #e12544;
+}
+
 #newCardForm {
     font-weight: bold;
+    text-align: left;
+    margin: 20px
 }
 
 #cards {
     text-align: center;
     border-style: solid;
-    margin: 20px
+    margin: 20px;
+    background-color: rgb(121, 108, 108);
+}
+
+.card {
+    text-align: center;
+    border: grey solid 1px;
+    padding: 1rem;
+    width: 15rem;
+    height: 45rem;
+    display: inline-grid;
+    margin: 1rem 2rem;
+    box-shadow: 3px 4px rgb(29, 66, 138);
+    background-color: white;
 }
 
 img {
     width: 250px;
+    height: 375px;
 }
+

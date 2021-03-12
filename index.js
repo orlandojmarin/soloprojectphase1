@@ -1,4 +1,4 @@
-//FETCH REQUEST
+//FETCH REQUEST TO GET INFO FROM DATABASE
 fetch('http://localhost:3000/basketballCards')
   .then(response => response.json())
   .then(basketballCards => {
@@ -11,6 +11,7 @@ fetch('http://localhost:3000/basketballCards')
     const cardContainer = document.getElementById("cards")
 
     const individualCard = document.createElement("div")
+    individualCard.className = "card"
     individualCard.id = newCard.id
     
     const cardH1 = document.createElement("h1")
@@ -28,7 +29,7 @@ fetch('http://localhost:3000/basketballCards')
 
     individualCard.appendChild(cardImage)
 
-    const cardTeamName = document.createElement("p")
+    const cardTeamName = document.createElement("h3")
     cardTeamName.textContent = newCard.rookieYearTeam
 
     individualCard.appendChild(cardTeamName)

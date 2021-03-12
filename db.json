@@ -2,12 +2,57 @@
   "basketballCards": [
     {
       "id": 1,
-      "playerName": "Lebron James",
+      "playerName": "LeBron James",
       "yearDrafted": 2003,
       "image": "http://media.cleveland.com/livingston_impact/photo/10529847-large.jpg",
       "rookieYearTeam": "Cleveland Cavaliers",
       "height": "6 ft 9 inches",
       "weight": "250 lbs"
+    },
+    {
+      "playerName": "Dwyane Wade",
+      "yearDrafted": "2003",
+      "image": "https://static.wikia.nocookie.net/nba/images/b/bc/Dwyane_Wade.jpg/revision/latest/scale-to-width-down/340?cb=20190708211052",
+      "rookieYearTeam": "Miami Heat",
+      "height": "6 ft 4 inches",
+      "weight": "220 lbs",
+      "id": 2
+    },
+    {
+      "playerName": "Chris Paul",
+      "yearDrafted": "2005",
+      "image": "https://i.pinimg.com/originals/7f/53/1a/7f531a6278260b677788b2c24e371633.jpg",
+      "rookieYearTeam": "New Orleans Pelicans",
+      "height": "6 ft",
+      "weight": "175",
+      "id": 4
+    },
+    {
+      "playerName": "Rajon Rondo",
+      "yearDrafted": "2006",
+      "image": "http://d1ya1fm0bicxg1.cloudfront.net/2014/11/promoted-media-optimized_546652a52b5f7.jpg",
+      "rookieYearTeam": "Boston Celtics",
+      "height": "6 ft 1 inch",
+      "weight": "185",
+      "id": 5
+    },
+    {
+      "playerName": "Kevin Durant",
+      "yearDrafted": "2007",
+      "image": "https://netswire.usatoday.com/wp-content/uploads/sites/9/2020/12/Kevin-Durant-Sonics-18.jpg?w=951",
+      "rookieYearTeam": "Seattle Supersonics",
+      "height": "6 ft 10  inches",
+      "weight": "240 lbs",
+      "id": 6
+    },
+    {
+      "playerName": "Derrick Rose",
+      "yearDrafted": "2008",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Derrick_Rose_2.jpg/220px-Derrick_Rose_2.jpg",
+      "rookieYearTeam": "Chicago Bulls",
+      "height": "6 ft 2  inches",
+      "weight": "200 lbs",
+      "id": 7
     }
   ]
 }
